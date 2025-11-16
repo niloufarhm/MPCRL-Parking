@@ -149,5 +149,6 @@ main.tex
 # 🙌 Acknowledgements
 - `highway-env` creators  
 - Chua et al. for PETS  
-- Hansen et al. for TD-MPC2  
+- Hansen et al. for TD-MPC2 and their official implementation:
+https://github.com/nicklashansen/tdmpc2
 - Open-source RL community  
