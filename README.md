@@ -137,10 +137,13 @@ main.tex
 
 # 📚 Citation
 ```
-@misc{mbrl_parking2025,
-  title={Model-Based Reinforcement Learning for Automated Parking},
-  author={Hemati, Niloufar and Dorry, Bardia},
-  year={2025},
+@misc{highway-env,
+  author = {Leurent, Edouard},
+  title = {An Environment for Autonomous Driving Decision-Making},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/eleurent/highway-env}},
 }
 ```
 
