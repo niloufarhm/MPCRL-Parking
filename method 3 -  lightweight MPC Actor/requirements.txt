@@ -1,0 +1,7 @@
+highway-env
+gymnasium
+torch
+numpy
+pygame
+imageio
+imageio-ffmpeg
